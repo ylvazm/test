@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Blog
 ---
 
-# Blog
+## Blog
 
+_yay_
+
+[back](./)
