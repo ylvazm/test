@@ -9,5 +9,6 @@ title: Home
 
 ## examfactRy Blog
 
-[Find blog posts about examfactRy here](/blog-list/)
+[Find blog posts about examfactRy here](./blog-list.md/)
+
 
